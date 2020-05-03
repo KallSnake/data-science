@@ -2,13 +2,13 @@
 #
 #                         Machine Learning com Linguagem R
 #
-#                       Prevendo a Inadimplência de Clientes
+#                       Prevendo a InadimplÃªncia de Clientes
 #
 #*****************************************************************************
 
 # Definindo a pasta de trabalho
 getwd()
-setwd("C:/Users/kblui/Downloads/DSA - Data Science Academy/Power BI para Data Science/Dataset/Dataset - Criando Visualizao de Dados no Power BI com a Linguagem R/1 - Machine Learning em R")
+setwd("C:/Users/Data Science/Dataset/Dataset - Criando Visualizao de Dados no Power BI com a Linguagem R/1 - Machine Learning em R")
 
 #################### Pacotes do R ####################
 
