@@ -1,5 +1,5 @@
 # Definindo a pasta de trabalho
-setwd("C:/Users/kblui/Downloads/DSA - Data Science Academy/Power BI para Data Science/Dataset/Dataset - Estatistica para Data Science")
+setwd("C:/Users/Data Science/Dataset/Dataset - Estatistica para Data Science")
 getwd()
 
 # A distribuição de Poisson é a distribuição de probabilidade de ocorrências de eventos independentes em um 
