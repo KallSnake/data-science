@@ -1,8 +1,5 @@
-# Medidas de Posição
-
 # Definindo a pasta de trabalho
-# Substitua o caminho abaixo pela pasta no seu computador
-setwd("C:/Users/kblui/Downloads/DSA - Data Science Academy/Power BI para Data Science/Dataset/Dataset - Estatistica para Data Science")
+setwd("C:/Users/Data Science/Dataset/Dataset - Estatistica para Data Science")
 getwd()
 
 # Carregando o dataset
